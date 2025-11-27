@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+
+    margin-left: 80vh;
+    margin-right: 50vh;
+    margin-top: 20vh;
+
+    color: rgb(255, 255, 255);
+    
+}
+body, input, button {
+    font-family: "Science Gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+}
+h1 {
+    font-family: "Science Gothic", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color:rgb(255, 255, 255);
+}
