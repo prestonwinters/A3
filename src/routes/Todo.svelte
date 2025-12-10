@@ -17,7 +17,8 @@
         let itemDueSoon =todoList.some(item => item.dueSoon === true);
         console.log(itemDueSoon);
         if(itemDueSoon){
-            navigator.vibrate((200, 200, 200));
+            console.log('item due soon!');
+            navigator.vibrate((200, 50, 200, 50, 200));
         }
     })
 
