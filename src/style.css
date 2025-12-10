@@ -1,11 +1,9 @@
 
 body {
     background-color: rgb(0, 0, 0);
-
-    margin-left: 80vh;
-    margin-right: 50vh;
-    margin-top: 20vh;
-
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 5vw;
     color: rgb(255, 255, 255);
     
 }
